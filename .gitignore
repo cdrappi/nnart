@@ -1,0 +1,8 @@
+.idea*
+deep-goggle*
+caffe*
+deepdream*
+*tmp.prototxt
+*.DS_STORE
+others_images
+*roomies*jpg
